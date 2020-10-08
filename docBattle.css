@@ -1,0 +1,10 @@
+.screen{
+  width: 600px;
+  height: 400px;
+  margin: 100px auto;
+}
+
+#img{
+  width: 150px;
+  height: 150px;
+}
